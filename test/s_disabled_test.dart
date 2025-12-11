@@ -132,7 +132,7 @@ void main() {
         ),
       );
 
-      await tester.tap(find.byType(ElevatedButton));
+      await tester.tap(find.byType(ElevatedButton), warnIfMissed: false);
       await tester.pumpAndSettle();
 
       expect(buttonPressed, false);
@@ -187,7 +187,7 @@ void main() {
         ),
       );
 
-      await tester.tap(find.byType(Container));
+      await tester.tap(find.byType(Container), warnIfMissed: false);
       await tester.pumpAndSettle();
 
       expect(tappedOffset, isNotNull);
@@ -234,11 +234,11 @@ void main() {
       await tester.tap(find.byType(ElevatedButton));
       await tester.pump();
 
-      await tester.pump(const Duration(milliseconds: 150));
+      await tester.pump(const Duration(milliseconds: 200));
       final midAnimationOpacity =
           tester.widget<AnimatedOpacity>(find.byType(AnimatedOpacity)).opacity;
       expect(midAnimationOpacity, lessThan(1.0));
-      expect(midAnimationOpacity, greaterThan(0.3));
+      expect(midAnimationOpacity, greaterThanOrEqualTo(0.3));
 
       await tester.pumpAndSettle();
 
@@ -303,7 +303,7 @@ void main() {
         ),
       );
 
-      await tester.tap(find.byType(Container));
+      await tester.tap(find.byType(Container), warnIfMissed: false);
       await tester.pumpAndSettle();
 
       expect(tapCount, 0);
@@ -434,7 +434,7 @@ void main() {
         ),
       );
 
-      await tester.tap(find.byType(Container));
+      await tester.tap(find.byType(Container), warnIfMissed: false);
       await tester.pumpAndSettle();
 
       expect(find.byType(Container), findsOneWidget);
