@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  s_disabled: ^2.0.0
+  s_disabled: ^2.1.0
 ```
 
 Or install from the command line:
@@ -234,6 +234,9 @@ class _MyFormState extends State<MyForm> {
 | `disableOpacityChange` | `bool` | `false` | If true, opacity won't change when disabled |
 | `opacityWhenDisabled` | `double?` | `0.3` | Custom opacity level when disabled (0.0 - 1.0) |
 | `onTappedWhenDisabled` | `Function(Offset)?` | `null` | Callback when disabled widget is tapped, receives tap position |
+| `applyGrayscale` | `bool` | `false` | Apply a grayscale filter when disabled |
+| `disabledSemanticLabel` | `String?` | `null` | Custom accessibility label when disabled |
+| `disabledChild` | `Widget?` | `null` | Alternative widget to show when disabled |
 
 ## Example App
 
