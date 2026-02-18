@@ -1,0 +1,63 @@
+Running `(cd /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; TMPDIR=/var/folders/bp/tkltz0vj37d19x8jsz9v5pyw0000gn/T/ PATH=/opt/homebrew/opt/postgresql@17/bin:/usr/local/opt/ruby/bin:/Users/christophechanteur/.rbenv/shims:/opt/homebrew/opt/ruby/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/christophechanteur/Development/flutter/bin:/Users/christophechanteur/.pub-cache/bin:/opt/homebrew/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin HOME=/Users/christophechanteur /Users/christophechanteur/Development/flutter/bin/cache/dart-sdk/bin/dart '--packages=/Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/package_config.json' '/Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/objective_c/01181d36e9/hook.dill' '--config=/Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/objective_c/01181d36e9/input.json' )`.
+INFO: 2026-02-15 21:32:03.216458: Running `/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-02-15 21:32:03.362847: Running `/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-02-15 21:32:03.378195: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-02-15 21:32:03.378594: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.c.o
+
+INFO: 2026-02-15 21:32:03.378833: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/test/util.c -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/test/util.c.o
+
+INFO: 2026-02-15 21:32:03.379071: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-02-15 21:32:03.379186: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.m.o
+
+INFO: 2026-02-15 21:32:03.379299: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/observer.m.o
+
+
+
+INFO: 2026-02-15 21:32:03.379516: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/protocol.m.o
+
+INFO: 2026-02-15 21:32:03.379725: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/christophechanteur/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-02-15 21:32:03.522296: 
+INFO: 2026-02-15 21:32:03.522401: 
+INFO: 2026-02-15 21:32:03.522639: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.c.o
+
+INFO: 2026-02-15 21:32:03.523501: 
+INFO: 2026-02-15 21:32:03.523570: 
+INFO: 2026-02-15 21:32:03.523620: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-02-15 21:32:03.538787: 
+INFO: 2026-02-15 21:32:03.538853: 
+INFO: 2026-02-15 21:32:03.538868: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/observer.m.o
+
+INFO: 2026-02-15 21:32:03.541868: 
+INFO: 2026-02-15 21:32:03.541902: 
+INFO: 2026-02-15 21:32:03.541913: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/test/util.c.o
+
+INFO: 2026-02-15 21:32:03.542671: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/protocol.m.o
+
+INFO: 2026-02-15 21:32:03.833080: 
+INFO: 2026-02-15 21:32:03.833132: 
+INFO: 2026-02-15 21:32:03.833144: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/ns_number.m.o
+
+INFO: 2026-02-15 21:32:03.838927: 
+INFO: 2026-02-15 21:32:03.838957: 
+INFO: 2026-02-15 21:32:03.838968: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.m.o
+
+INFO: 2026-02-15 21:32:03.841780: 
+INFO: 2026-02-15 21:32:03.841805: 
+INFO: 2026-02-15 21:32:03.841816: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-02-15 21:32:03.855918: 
+INFO: 2026-02-15 21:32:03.855936: 
+INFO: 2026-02-15 21:32:03.855946: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-02-15 21:32:03.856249: Running: /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -target arm64-apple-darwin -mmacos-version-min=13 /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/include/dart_api_dl.c.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.c.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/test/util.c.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/input_stream_adapter.m.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c.m.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/observer.m.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/ns_number.m.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/protocol.m.o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/obj/src/objective_c_bindings_generated.m.o -o /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/objective_c.dylib
+
+INFO: 2026-02-15 21:32:03.983444: 
+INFO: 2026-02-15 21:32:03.983504: 
+INFO: 2026-02-15 21:32:03.983519: Generated /Users/christophechanteur/Development/Flutter_projects/s_packages - with individual git/s_disabled/.dart_tool/hooks_runner/shared/objective_c/build/01181d36e9/objective_c.dylib
+
