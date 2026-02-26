@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  s_disabled: ^2.1.0
+  s_disabled: ^3.0.0
 ```
 
 Or install from the command line:
